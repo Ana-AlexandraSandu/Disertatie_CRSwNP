@@ -1,5 +1,5 @@
-# Disertatie_CRSwNP
-Rinosinuzita cronica (CRS) cu polipi nazali este o boala inflamatorie cronica a cavitatilor nazale si sinusurilor, care se caracterizeaza prin prezenta polipilor, care sunt cresteri benigne ale tesutului care apar din mucoasa nasului si a sinusurilor. 
+# Disertatie
+Rinosinuzita cronica cu polipi nazali este o boala inflamatorie cronica a cavitatilor nazale si sinusurilor, care se caracterizeaza prin prezenta polipilor, care sunt cresteri benigne ale tesutului care apar din mucoasa nasului si a sinusurilor. 
 Factorii de risc pentru CRS cu polipi nazali includ alergii, astm, sensibilitate la aspirina si antecedente de sinuzita cronica. 
 
 Prin aceasta lucrare se doreste creonarea unui model care sa prezica starea unei persoane in urma operatiei de rinosinuzita cronica cu polipi nazali. S-a ales folosirea algoritmilor de machine learning, datoriota complexitatii subiectului si a factorilor implicati care interactioneaza in stabilirea unor concluzii mult mai precise.
